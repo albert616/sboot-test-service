@@ -12,4 +12,4 @@ Instructions
    test-ervice should provide one room and all the related windows when one single room is retrieved.
    
 4) Extras : 
-   Run it with default profile and make it Oracle complaint   
+   Run it with default profile and make it compatible with Oracle    
